@@ -1,0 +1,4 @@
+python model.py
+
+rnn = True : CNN_RNN
+rnn = False : CNN_CNN
